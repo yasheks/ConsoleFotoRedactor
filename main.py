@@ -1,5 +1,3 @@
-GeekPaste
- 
 from PIL import Image
 from Filters import grey, noisily, two_colors, hype, four_colors, mirror_image, pasta, rectangle, curtains
 while True:
